@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @krystn!
-- 👀 I’m interested in architecture and technology with a focus on high performance, climate responsive buildings and computational design.
-- 🌱 I’m currently learning javascript and python.
-- 💞️ I’m looking to collaborate on creating a project architects/designers can use to help their day-to-day workflow.
+- 👀 I’m an architectural designer who's passionate in problem solving, data driven and human centered design.
+- 🌱 I’m currently learning javascript and python. I'm also taking Colt Steele's Web Developer Bootcamp 2022 on Udemy.
+- 💞️ I'm interested in collaborating on apps for architects and designers.
 - 📫 Send me an email at rillorazadev@gmail.com
