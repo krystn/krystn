@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @krystn!
-- 👀 I’m an architectural designer who's passionate in problem solving, data driven and human centered design.
-- 🌱 I’m currently learning javascript and python. I'm also taking Colt Steele's Web Developer Bootcamp 2022 on Udemy.
-- 💞️ I'm interested in collaborating on apps for architects and designers.
-- 📫 Send me an email at rillorazadev@gmail.com
+- 👀 I’m a Data Analyst with 5 years of experience in Architecture as a sustainability and climate-responsive building design advocate!
+- 🌱 I’m currently building my skills as a Data Analyst such as SQL, R, Python, Tableau, and more.
+- 💞️ My passion has always been in data-driven problem solving, even as a designer! 
+- 📫 Interested in seeing how I combine architecture and data? Send me an email at rillorazadev@gmail.com
